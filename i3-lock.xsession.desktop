@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=i3-lock
+Comment=This session logs you into i3 with GNOME session integration
+Exec=i3-lock-session
+TryExec=i3-lock-session
+Type=Application
+DesktopNames=i3
+Keywords=tiling;wm;windowmanager;window;manager;
